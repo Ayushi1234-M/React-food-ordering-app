@@ -1,0 +1,23 @@
+img.brandlogo.d-inline-block.align-text-top {
+    height: 50px;
+    width: auto;
+    padding-left: 10px;
+}
+
+.brandname {
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+
+.image-logo {
+    display: flex;
+}
+
+.brandtitle{
+    padding-right: 10px;
+}
+
+.nav1 {
+    background-color: green;
+  }
