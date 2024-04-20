@@ -17,10 +17,15 @@ You may also see any lint errors in the console.
 ### Install the following:-
 
 React router: npm install -s react-router-dom
+
 React icons: npm i react-icons
+
 Redux toolkit: npm i @reduxjs/toolkit
+
 React redux: npm i react-redux
+
 Hot toast: npm i react-hot-toast
+
 React spinners: npm install --save react-spinners
 
 
