@@ -19,7 +19,7 @@ export default function CategoryMenu() {
   return (
     <div>
       <div className="search-area">
-        Search for your favorite foods here:
+        <span className="searchhere">Search for your favorite foods here:</span>
         <span>
          
           <input
