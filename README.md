@@ -1,4 +1,4 @@
-Food Ordering App:
+#Food Ordering App:
 
 Developed an attractive food ordering application, designed to resemble the user experience of an e-commerce platform. 
 It includes features such as adding items to the cart, adjusting quantities, and filtering by categories. Implemented Redux 
