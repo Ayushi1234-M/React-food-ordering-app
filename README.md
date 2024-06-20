@@ -2,7 +2,7 @@
 
 Developed an attractive food ordering application, designed to resemble the user experience of an e-commerce platform. 
 It includes features such as adding items to the cart, adjusting quantities, and filtering by categories. Implemented Redux 
-Toolkit for state management and React Router for navigation
+Toolkit for state management and React Router for navigation.
 
 # Getting Started with Create React App
 
